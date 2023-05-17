@@ -18,3 +18,6 @@ in the folder "BinarySearch" that you have 3 file
 
 ## Made Original By 
 ## - rifqanzalbina
+
+## One of the three versions
+![BinarySearch](https://github.com/rifqanzalbina/BinarySearch/assets/124742008/6d4dcb1a-c776-4a5b-b786-add07d66fef4)
